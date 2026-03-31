@@ -1,0 +1,17 @@
+﻿# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/routes/__pycache__/
+
+# Flutter
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/pubspec.lock
+
+# General
+.DS_Store
+*.log
